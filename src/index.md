@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
-authorInTitle: true
+title: Rajkot Engineering
+authorInTitle: false
 metaTitle: Home
 highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
+highlightedTitle: Spare parts and pipe fittings
 highlightedLinkText: All my favourite recipes
 ---

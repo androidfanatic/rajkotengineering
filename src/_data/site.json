@@ -1,10 +1,10 @@
 {
     "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "metaDescription": "Agricultural supplies and pipe fittings",
+    "author": "Rajkot Engineering Doe",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
+    "searchLabel": "Find parts by name, part code or description",
     "searchContainsLabel": "Contains",
     "servingsLabel": "servings",
     "ingredientsLabel": "Ingredients"
